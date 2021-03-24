@@ -6,7 +6,10 @@ You can sync to multiple computers. Other people can make contributions.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+If you synced automatically, you might get public versions that don't run
+or are incomplete in some way. With manual syncing, you can decide when to
+publish a change, and decide when you're ready to see changes other people
+have done.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
