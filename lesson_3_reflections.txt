@@ -31,4 +31,5 @@ Could work on the same file in the same directory, each being allowed a slice of
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When you want to make proposed changes without disturbing the main branch until
+your changes have been reviewed.
